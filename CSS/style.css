@@ -83,11 +83,6 @@ button:hover {
     margin: 4px 0 2px 0;
 }
 
-/* targets the avatar included for the lgin form and gives it a width */
-img.avatar {
-    width: 40%;
-   
-}
 
 .container {
     padding: 10px;
